@@ -30,11 +30,11 @@ Im Dev Container Terminal öffnen
 
 Im Terminal mit `pnpm create next-app@latest my-app --yes` die Skeleton App für Next.js im Verzeichnis `my-app` installieren.
 
-Mit `cd my-app` in das Programmverzeichnnis wechseln.
+Mit `cd my-app` in das Programmverzeichnis wechseln.
 
 Mit `pnpm dev` den Entwicklungsmodus von Next.js starten.
 
-App in Browser unter `http://localhost:3000/` öffnen.
+App im Browser unter `http://localhost:3000/` öffnen.
 
 ## Mini-App anpassen
 
