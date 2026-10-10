@@ -34,7 +34,7 @@ Mit `cd my-app` in das Programmverzeichnis wechseln.
 
 Mit `pnpm dev` den Entwicklungsmodus von Next.js starten.
 
-App im Browser unter `http://localhost:3000/` öffnen.
+App im Browser unter http://localhost:3000/ öffnen.
 
 ## Mini-App anpassen
 
