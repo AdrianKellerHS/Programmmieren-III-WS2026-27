@@ -68,6 +68,8 @@ Danach mit `File` > `Save` oder `Strg-s` speichern und die Änderung wird direkt
 
 - [Git – Erste Schritte](https://git-scm.com/book/de/v2/Erste-Schritte-Was-ist-Versionsverwaltung) bis Kapitel 2.2
 
+*Tipp:* Git ist im oben erstellten Dev Container bereits installiert. Am einfachsten dort erste "Git-Versuche" im Terminal erstellen.
+
 
 ### Weitere Tutorials (die im Laufe der Vorlesung relevant werden)
 
