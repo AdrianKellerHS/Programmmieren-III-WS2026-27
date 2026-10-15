@@ -2,7 +2,7 @@
 
 ## 15.10.2026
 
-Überprüfen Sie Ihren Wissenstand anhand der Übungen [02 Recap Linux Terminal, HTML, CSS, JS, Git](../_lecture/02%20Recap%20Linux%20Terminal,%20HTML,%20CSS,%20JS,%20Git/). Die dort genannten Aspekte zu HTML, CSS, Javascript und Git sind der absolute minimale Wissensstandard, den Sie für die Vorlesung benötigen. Machen Sie sich damit also unbedingt vertraut!
+Überprüfen Sie Ihren Wissenstand noch einmal anhand der in der Vorlesung durchgeführten Übungen [02 Recap Linux Terminal, HTML, CSS, JS, Git](https://github.com/Lauff-HS-Mainz/Programmmieren-III-WS2026-27/tree/main/_lecture/02%20Recap%20Linux%20Terminal%2C%20HTML%2C%20CSS%2C%20JS%2C%20Git). Die dort genannten Aspekte zu HTML, CSS, Javascript und Git sind der absolute minimale Wissensstandard, den Sie für die Vorlesung benötigen. Machen Sie sich damit also unbedingt vertraut!
 
 Für die **kommende Vorlesung** sollten Sie folgende Inhalte können:
 
