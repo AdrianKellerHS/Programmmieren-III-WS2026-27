@@ -7,10 +7,15 @@ https://www.docker.com/products/docker-desktop/
 
 ## VS Code
 
-Installieren von
+1. Installieren von
 https://code.visualstudio.com/
 
-Erweiterung `Dev Containers` von Microsoft installieren.
+2. Erweiterung `Dev Containers` von Microsoft installieren.
+
+![Dev Containers installieren](assets/image-01.png)
+
+**Hinweis:** Im obigen Bild ist die Erweiterung bereits installiert. Wenn diese noch nicht installiert ist, steht statt `Uninstall` dort `Install`.
+
 
 ## Dev Container in VS Code erstellen
 
@@ -19,6 +24,15 @@ Erweiterung `Dev Containers` von Microsoft installieren.
 Als Dev Container Configuration `Node.js & TypeScript` von devcontainers auswählen. 
 
 Danach alles bestätigen bis der Dev Container erstelt wird.
+
+Nachdem der Dev Container erstellt wurde und läuft erscheint unten links folgende blaue Infobox.
+
+![Dev Container läuft](assets/image-02.png)
+
+Im Dev Container jetzt auch die Erweiterung `Live Preview` installieren
+
+![Live Preview im Dev Container installieren](assets/image-03.png)
+
 
 ## Mini-App erstellen
 

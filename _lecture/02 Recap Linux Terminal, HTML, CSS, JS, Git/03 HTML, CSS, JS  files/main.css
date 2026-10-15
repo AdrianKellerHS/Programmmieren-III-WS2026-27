@@ -1,0 +1,21 @@
+body {
+    background-color: yellow;
+    padding: 20px;
+}
+
+h1 {
+    color: red;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 90%;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    width: 90%;
+}
